@@ -1,4 +1,4 @@
 # getDiff
 
-npm install
-node index.js
++ `npm install`
++ `node index.js`
